@@ -1,17 +1,11 @@
-PROMPT CHAIN DOCUMENTATION
-
 Prompt 1:
-Suggest one YouTube video idea in the niche "AI tools for students" for beginners.
+Generate a YouTube video idea about Australian cricketer Mitchell Starc.
 
 Prompt 2:
-Generate 5 catchy YouTube titles for the above video idea.
-
-Prompt 3:
-Write a full YouTube video script (800–1500 words) for the title
-"5 AI Tools Every Student Must Use in 2025" using simple English.
+Generate a catchy YouTube title for a short video on Mitchell Starc.
 
 Prompt 4:
-Give 5 short YouTube thumbnail texts (max 4 words).
+Suggest short YouTube thumbnail text for Mitchell Starc video.
 
 Prompt 5:
-Describe an attractive YouTube thumbnail image for this video.
+Describe a simple thumbnail image idea for a Mitchell Starc YouTube video.
